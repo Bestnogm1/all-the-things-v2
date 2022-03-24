@@ -3,7 +3,8 @@ import React from 'react';
 const ThingCard = ({ thing }) => {
   return (
     <>
-    <h1> hi i was here ariel </h1>
+    <h1> hi i was here ariel v </h1>
+    <h1> hi i was here ariel again LGTM </h1>
       <h2>{thing.name}</h2>
       <img height='300'src={thing.image} alt=""/>
       <ul>
